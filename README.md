@@ -11,6 +11,7 @@ DECLARAÇÃO
 	resultado: decimal;
 
 INICIO
+
 	escreva ("digite o valor em dolar")
 	leia (valor em dolar)
 	se (valor < 10) então	
@@ -18,7 +19,7 @@ INICIO
 	senão ("valor maior ou igual")		
 	reais <- valor*5,12	
 	leia (reais)	
-  resultado = reais
+        resultado = reais
   
 FIM		
 		
