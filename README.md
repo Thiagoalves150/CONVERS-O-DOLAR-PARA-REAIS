@@ -12,14 +12,14 @@ DECLARAÇÃO
 
 INICIO
 
-	escreva ("digite o valor em dolar")
-	leia (valor em dolar)
-	se (valor < 10) então	
-	escreva ("valor menor que 10")
-	senão ("valor maior ou igual")		
-	reais <- valor*5,12	
-	leia (reais)	
-        resultado = reais
+	escreva ("digite o valor em dolar");
+	leia (valor em dolar);
+	se (valor < 10) então;	
+	escreva ("valor menor que 10");
+	senão ("valor maior ou igual");		
+	reais <- valor*5,12;	
+	leia (reais);	
+        resultado = reais;
   
 FIM		
 		
